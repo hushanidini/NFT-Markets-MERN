@@ -1,2 +1,1 @@
-# nft-market-mern
-marketplace for NFTs and crypto collectibles.
+# NFT-Markets-MERN-Stack
